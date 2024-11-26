@@ -1,6 +1,8 @@
 # DOC-x-To-PDF-Converter
 A simple DOC(x) to PDF converter
 
+Requires Word Doc installed
+
 Replace inputFolder = "C:\Path\To\Your\Files" with your DOC(x) folder
 
 
